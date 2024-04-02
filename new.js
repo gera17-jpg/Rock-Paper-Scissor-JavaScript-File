@@ -1,3 +1,5 @@
+//Need to revisit
+
 let score = JSON.parse(localStorage.getItem('score')) || {
           wins: 0,
           lose: 0,
